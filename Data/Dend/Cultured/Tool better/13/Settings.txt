@@ -1,0 +1,12 @@
+multi-time:False
+resolution:0.1
+Image threshold:25
+Dendritic width:3
+Dend. width multiplier:3
+ML Confidence:5
+ROI Tolerance:5
+ROI Sigma:5
+Dendritic puncta threshold:75
+Somatic puncta threshold:50
+MLLocation:/Users/maximilianeggl/SpydenML/SynapseMLModel
+Dend. shift:False

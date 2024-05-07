@@ -1,0 +1,11 @@
+multi-time:False
+resolution:0.288
+Image threshold:159
+Dendritic width:6
+Dend. width multiplier:5
+ML Confidence:0
+ROI Tolerance:3
+ROI Sigma:5
+Dendritic puncta threshold:75
+Somatic puncta threshold:50
+MLLocation:/Users/maximilianeggl/Dropbox/PostDoc/HeteroPlast/Code/Spyne/App/../MLModel/SynapseMLModel
