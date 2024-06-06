@@ -1,7 +1,7 @@
 # Paper figures and data for the SpyDen paper
 Python package for the submission of "SpyDen: Automating molecular and structural analysis across spines and dendrites".
 
-Included is the jupyter-notebook to generate the figures and dataset used to validate SpyDen.
+Included is the jupyter-notebook to generate the figures and dataset used to validate SpyDen. [Link][https://github.com/meggl23/SpyDen] to the SpyDen repository.
 
 # System requirements
 The codebase uses python and the jupyter-notebook architecture which can be run as long as python is installed
@@ -20,5 +20,4 @@ Runtime: N/A
 
 # Instructions for use
 Open the jupyter-notebook via the terminal and open the notebook. There you can then generate the figures of the paper
-
 
