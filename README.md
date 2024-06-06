@@ -8,7 +8,7 @@ The codebase uses python and the jupyter-notebook architecture which can be run 
 Version number tests for SpyDen: 1.0-beta
 Required non-standard hardware: N/A
 
-# Installation guide:
+# Installation guide
 
 Install by cloning this repository into a local environment that includes a python installation.
 
